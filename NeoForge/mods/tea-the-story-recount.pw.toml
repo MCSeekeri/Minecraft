@@ -1,0 +1,13 @@
+name = "Tea the Story : Recount"
+filename = "teastory_recount-1.21.1-neoforge-0.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91c432e5a4dc838fb4e9fb1c888766a1285af63d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5998059
+project-id = 1088855

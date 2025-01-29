@@ -1,0 +1,13 @@
+name = "Ender IO"
+filename = "enderio-7.1.5-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/49ZofO4f/versions/v4imixbQ/enderio-7.1.5-alpha.jar"
+hash-format = "sha512"
+hash = "99792ac54f430c9add5d8f50699cf499d91adf939a648afd81d2491830eab41b0fbb5080d9e9aa4cd25542b0aedcea986bb4acfa8e36807d4c344e2906087d78"
+
+[update]
+[update.modrinth]
+mod-id = "49ZofO4f"
+version = "v4imixbQ"

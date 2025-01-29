@@ -1,0 +1,13 @@
+name = "MystiasIzakaya"
+filename = "mystias_izakaya-neoforge-1.21-0.1.0e.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q8UNeaaW/versions/ipg9tEYT/mystias_izakaya-neoforge-1.21-0.1.0e.jar"
+hash-format = "sha512"
+hash = "a819f876a7203195a6f5bafbedb2a2111e272ad9dffd8fa27619ad72493fb8796b7db60967424fc623b7f734e4c84d5a55081b6b99971f48e651078d19b0fc85"
+
+[update]
+[update.modrinth]
+mod-id = "q8UNeaaW"
+version = "ipg9tEYT"
