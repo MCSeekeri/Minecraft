@@ -11,3 +11,7 @@ hash = "05f03f92611578554d53e3fc3f766c6525329e249f51926b34e327034e76f14f0b92f371
 [update.modrinth]
 mod-id = "z13R7Et1"
 version = "9331fSfU"
+
+[option]
+optional = true
+description = "粒子效果增强"

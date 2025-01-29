@@ -11,3 +11,7 @@ hash = "337a0077df4bd84fe851e077d24cd9828b059c2f0cb3871297b41479e4e5ca6feeedd22e
 [update.modrinth]
 mod-id = "orfTV6nk"
 version = "nL7q56ha"
+
+[option]
+optional = true
+description = "128x 高清材质包"

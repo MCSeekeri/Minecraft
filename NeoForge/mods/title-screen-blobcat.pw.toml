@@ -1,0 +1,17 @@
+name = "Title Screen Blobcat"
+filename = "title_blobcat-1.21-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IaCcsRYN/versions/eBgWjT7m/title_blobcat-1.21-1.0.3.jar"
+hash-format = "sha512"
+hash = "4448c571a40b3a3216cadb887caf9614e30f258d4bbce8b0cc0638d07027054ec6425e4873089c3db9cd52198df213399f460cca9293a8519375c33c6d48860d"
+
+[update]
+[update.modrinth]
+mod-id = "IaCcsRYN"
+version = "eBgWjT7m"
+
+[option]
+optional = true
+description = "在主界面添加一只猫猫"

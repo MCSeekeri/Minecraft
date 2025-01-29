@@ -11,3 +11,7 @@ hash = "647cab9a1bed84e10cfe77732a66bdfe116a6371dcceadcf896083654f7ab39542df4152
 [update.modrinth]
 mod-id = "QdG47OkI"
 version = "X2U8ceG9"
+
+[option]
+optional = true
+description = "游戏模型边框修复，在高清材质包下会导致一些问题"

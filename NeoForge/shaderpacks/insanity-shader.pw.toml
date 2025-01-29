@@ -11,3 +11,7 @@ hash = "853c610480d50b799c95c43299ac32c0146ed4dd5f833d7a7229ec1f670aac6cc84b672b
 [update.modrinth]
 mod-id = "EQWX2WiO"
 version = "TK0ZSsk0"
+
+[option]
+optional = true
+description = "寂静岭风味的光影，降低渲染距离最有味道。"
