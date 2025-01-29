@@ -1,0 +1,13 @@
+name = "Sounds"
+filename = "Sounds-2.3.2+1.21+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/mluSTufU/Sounds-2.3.2%2B1.21%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "ccf44954ebe9a20e1e2eb0fcfee833031751cec6b5f146e7baaa24b98a67a8f20f80ca503f0b7583fb9edc146899256186f22707c29217c02ce84450487b986a"
+
+[update]
+[update.modrinth]
+mod-id = "ZouiUX7t"
+version = "mluSTufU"

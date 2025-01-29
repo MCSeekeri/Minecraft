@@ -189,11 +189,6 @@ hash = "4e6cce2a40f56a58a5dffa924b05a27b7cc618c4c9afd611e5a2ff247a5a1065"
 metafile = true
 
 [[files]]
-file = "mods/dynamicsurroundingsfabric.pw.toml"
-hash = "4d82db44579a642c1c163d0942b230dad619d09d268136ba58e1c38a5d36d255"
-metafile = true
-
-[[files]]
 file = "mods/enderio.pw.toml"
 hash = "b8a9fa206d37d2ee3e28cb8e26578152c7f76411c8914754a2bcfd83548f8132"
 metafile = true
@@ -384,6 +379,11 @@ hash = "b98de16dd0ed1e66857326baacf71b024bf50d7edb8a96c53e5dede5cdbd4c95"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "5510d4a22eb25184ca114f792301f7f569d3a2ec5c9fe06b156997012d875391"
+metafile = true
+
+[[files]]
 file = "mods/mystiasizakaya.pw.toml"
 hash = "1da531a121576b9bfadb2c45693c8efb0010171dd71cd7adc5237ee71175f056"
 metafile = true
@@ -536,6 +536,16 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "688e71e447e42ca888369aadc260cd1aea6e5b5b2e549fa9633dc323270d0d65"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "1bfb26729d5a6e7a25a04c31df23529193e983fbaf730eb9011175d66b823325"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "097b306b0c48e387ef6c07992da723ff7885360f76383f80bbd63d1a9b46590b"
 metafile = true
 
 [[files]]
