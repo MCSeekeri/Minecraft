@@ -309,6 +309,11 @@ hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
 metafile = true
 
 [[files]]
+file = "mods/leashedplayer.pw.toml"
+hash = "5a06073a04e7e009a9ac01ae1bf1033972d2672bb6b7c933fc16af9a6aff9b5f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "1348d9c5ff54859303da087b90b01535e586aeeb2999b3d81ef7e9ff1af68833"
 metafile = true
