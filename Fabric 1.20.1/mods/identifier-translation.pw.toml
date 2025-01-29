@@ -1,0 +1,13 @@
+name = "标识符翻译"
+filename = "Identifier-Translation-3_1.20-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M2GV3t9H/versions/HI0Utr36/Identifier-Translation-3_1.20-1.20.1.jar"
+hash-format = "sha512"
+hash = "64bf30e5b383594cec586f62327734ea091264cfec1ba560b59b5184de2409abc2a05cc5158da2a2ff364869e184b4d5148c61503ab59601f38aeeec777ebb7f"
+
+[update]
+[update.modrinth]
+mod-id = "M2GV3t9H"
+version = "HI0Utr36"

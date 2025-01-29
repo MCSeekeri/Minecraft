@@ -1,0 +1,13 @@
+name = "Transcending Trident"
+filename = "transcendingtrident-1.21.1-4.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7GxZi46W/versions/xwsfyOOZ/transcendingtrident-1.21.1-4.8.jar"
+hash-format = "sha512"
+hash = "74f473d879fdf79ab16d2debb2adda4c7b6c7fb47fb822545a91e828245f7d0cd5b18d3939196bc3754478dd4528cdd70e25c1b82f0d37397336fa4f5d41fb6d"
+
+[update]
+[update.modrinth]
+mod-id = "7GxZi46W"
+version = "xwsfyOOZ"

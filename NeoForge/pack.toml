@@ -1,0 +1,13 @@
+name = "FengServerX-NeoForge"
+author = "MCSeekeri"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3d9a80374fa0826c8283da2dfc70652ff1d3c69ae93e7b25eeafcc4370ad93ed"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.115"

@@ -1,0 +1,13 @@
+name = "Prefab"
+filename = "prefab-fabric-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pTJ1ZloG/versions/GhjNMsmT/prefab-fabric-6.0.1.jar"
+hash-format = "sha512"
+hash = "444d58e0e5e5f78b8c35889a070416b88741768d53f73125c462935c4aace6d85cc9d2f85a38f0bce74adec2fd8ea7882cad4cc212eb5459ddc47279eae0c8f6"
+
+[update]
+[update.modrinth]
+mod-id = "pTJ1ZloG"
+version = "GhjNMsmT"

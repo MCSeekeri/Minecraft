@@ -1,0 +1,13 @@
+name = "GamemodeOverhaul"
+filename = "gamemodeoverhaul-fabric-2.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a6oRhHOA/versions/FtI1H5Ae/gamemodeoverhaul-fabric-2.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ad27b5cc47c38f4164c533211b885bf15d2101423ae73da323f872e1b4435ea3b26204d56b04cf3d8823801ea9bfea81afa3343a947169531791a34f51072c63"
+
+[update]
+[update.modrinth]
+mod-id = "a6oRhHOA"
+version = "FtI1H5Ae"

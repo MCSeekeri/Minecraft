@@ -1,0 +1,13 @@
+name = "Armourer's Workshop"
+filename = "armourersworkshop-fabric-1.21.1-3.1.5-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y4JF3gXL/versions/uIsS7PCF/armourersworkshop-fabric-1.21.1-3.1.5-beta.jar"
+hash-format = "sha512"
+hash = "8e0c2d515c437f56d5fac48115d55aa4d6f005c2579e83315ef0308a40c0a6297f4c083ba46229937dceb342b54fc53b39ee6cba50384ae49c954fa57ef1f656"
+
+[update]
+[update.modrinth]
+mod-id = "y4JF3gXL"
+version = "uIsS7PCF"

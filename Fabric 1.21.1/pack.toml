@@ -1,0 +1,13 @@
+name = "MC-Fabric"
+author = "MCSeekeri"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f85b8340a771cd9f7d3655e6d82f403754354ad6e76cb47bf4f9828081a9dbcd"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.1"

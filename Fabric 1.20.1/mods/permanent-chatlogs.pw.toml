@@ -1,0 +1,13 @@
+name = "Permanent ChatLogs"
+filename = "permanent-chat-logs-0.2.3-build20240515.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M59jltfe/versions/8Rj2FXhA/permanent-chat-logs-0.2.3-build20240515.jar"
+hash-format = "sha512"
+hash = "7102d14c90462cb05ec3cde607379286f9e315a973ec47efca588a0ced56486733082d27d0df2cd21834368126a12ca9dcdf7e7ba52713c03be715cd6989aca4"
+
+[update]
+[update.modrinth]
+mod-id = "M59jltfe"
+version = "8Rj2FXhA"

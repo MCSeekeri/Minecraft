@@ -1,0 +1,13 @@
+name = "FengServer"
+author = "MCSeekeri"
+version = "8.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "09a1c01a2386f2bad4842347516a30b154e833a1f1eed57167d05cb0515c38db"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.20.1"

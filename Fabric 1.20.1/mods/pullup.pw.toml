@@ -1,0 +1,13 @@
+name = "Pullup"
+filename = "pullup-fabric-1.20.1-0.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EisyVlf0/versions/B2EXpfFC/pullup-fabric-1.20.1-0.0.6.jar"
+hash-format = "sha512"
+hash = "d0324ffff791281ef14b6ba142f86e7c0f9132ddf3c7038eebc9d3161cfa1b8b15b644b585dc0200e4e293886f30f7cc3ba595e708781429973e9ce686baa0aa"
+
+[update]
+[update.modrinth]
+mod-id = "EisyVlf0"
+version = "B2EXpfFC"

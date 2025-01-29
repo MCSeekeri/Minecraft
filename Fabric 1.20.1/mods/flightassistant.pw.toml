@@ -1,0 +1,13 @@
+name = "FlightAssistant"
+filename = "flightassistant-fabric-3.0.0-alpha.3+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CWqLEOPt/versions/U0px7MSL/flightassistant-fabric-3.0.0-alpha.3%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "4377910dcf48dfd8a912a51af604d253e53ee32bdcbce490faf323505ddafb5d2a5732ada9e430c4d23446a1a33d116b3bbfef440e1f77e0353f595f339eb205"
+
+[update]
+[update.modrinth]
+mod-id = "CWqLEOPt"
+version = "U0px7MSL"

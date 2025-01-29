@@ -1,0 +1,13 @@
+name = "Humbling Bundle"
+filename = "humblingbundle-1.20.1-2.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9SSpOrIb/versions/aDIZmqFf/humblingbundle-1.20.1-2.3.jar"
+hash-format = "sha512"
+hash = "e254357d255162f42195f79a8470d34109b50e3c68f6321755c7ad165ce7ab96f92dbe14b05353025b54dda4d43fddd974b6d2b27f83816a7f5d31e3b67a1db4"
+
+[update]
+[update.modrinth]
+mod-id = "9SSpOrIb"
+version = "aDIZmqFf"

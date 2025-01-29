@@ -1,0 +1,13 @@
+name = "City Craft"
+filename = "City Craft-2.0.0-Fabric-1.20.x(ex.5.6).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NCASj2oY/versions/qWRV8sfH/City%20Craft-2.0.0-Fabric-1.20.x%28ex.5.6%29.jar"
+hash-format = "sha512"
+hash = "0d84a8123f25047f931fe31444e7ca3d75e1a8cccb8781e53b685c0335ac1aebedafb12f07f230192fd3d55e5e0ae6913a58e09c0cdc9d375ad4e56267310957"
+
+[update]
+[update.modrinth]
+mod-id = "NCASj2oY"
+version = "qWRV8sfH"

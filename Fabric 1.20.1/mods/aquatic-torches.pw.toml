@@ -1,0 +1,13 @@
+name = "Aquatic Torches"
+filename = "aquatictorches-1.20.1-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yJR377od/versions/Aos1Kbn3/aquatictorches-1.20.1-fabric-1.0.1.jar"
+hash-format = "sha512"
+hash = "25a0c8e74b0a57992b5d98bcb85ed52cb2d3f26e3d3dd148736c9dd3a4c9a95ca625c05a37c65054d7369ba6f2a3cf44904844089443bfc073f2ee14feb57e48"
+
+[update]
+[update.modrinth]
+mod-id = "yJR377od"
+version = "Aos1Kbn3"

@@ -1,0 +1,13 @@
+name = "Explosion Breaks No Block"
+filename = "ExplosionBreaksNoBlock-0.2-fabric+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3YsTQonY/versions/n6axexPP/ExplosionBreaksNoBlock-0.2-fabric%2B1.21.jar"
+hash-format = "sha512"
+hash = "c01d8044025a448eb039ec98cc8c6dabfa4d7e68fc7bd3df1e99f40e884cb914e4e54997acd51aa09843e981f0ceccb86a2150139d8b0503dfb8833a4159df80"
+
+[update]
+[update.modrinth]
+mod-id = "3YsTQonY"
+version = "n6axexPP"

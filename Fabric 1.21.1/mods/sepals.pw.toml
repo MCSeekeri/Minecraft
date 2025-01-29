@@ -1,0 +1,13 @@
+name = "Sepals"
+filename = "sepals-1.0.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hH1OHXZD/versions/HXiJFnTK/sepals-1.0.8.jar"
+hash-format = "sha512"
+hash = "50a376fffa47a74686ff8c92bfa63621ec5bdcdcd0af52ed340633088dcdafc9cc1d3ed026617fe67bf5684401e2a2dddc9779c8221aefb4389d5c763440d57d"
+
+[update]
+[update.modrinth]
+mod-id = "hH1OHXZD"
+version = "HXiJFnTK"

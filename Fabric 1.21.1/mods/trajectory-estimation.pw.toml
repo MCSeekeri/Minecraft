@@ -1,0 +1,13 @@
+name = "Trajectory Estimation"
+filename = "trajectory_estimation-fabric-1.0.3.1-1.21.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7c13Zjk8/versions/JLTMhcsk/trajectory_estimation-fabric-1.0.3.1-1.21.x.jar"
+hash-format = "sha512"
+hash = "086b041538baf707a1badb694a0092ae5227832d6c03ab1ea6cef45283dce7c39d9ea440c13b452a9fde7f9e5c98240c12c71606e3bae1b0c2d667fd60e8b57c"
+
+[update]
+[update.modrinth]
+mod-id = "7c13Zjk8"
+version = "JLTMhcsk"

@@ -1,0 +1,13 @@
+name = "字幕高亮"
+filename = "Subtitle-Highlight-11_1.20-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BfdnU8IS/versions/6quXmESv/Subtitle-Highlight-11_1.20-1.20.1.jar"
+hash-format = "sha512"
+hash = "3262519f3ba00e2bf21724d3596257e2e4654fecacc9cad7106c28fe33dbbd2e7ad29fedc4c954ba4646c5efc89ca3a1d52aa0ef6eb13c365d6b73cb27a120f0"
+
+[update]
+[update.modrinth]
+mod-id = "BfdnU8IS"
+version = "6quXmESv"

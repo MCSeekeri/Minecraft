@@ -1,0 +1,13 @@
+name = "Firework Boosted Minecarts"
+filename = "fireworkminecart-1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gt6jUoio/versions/6eBcnOmx/fireworkminecart-1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "fcfbff459b3c60f2e3506c745db4e74958ff39ec94e50edb38959fcbecd04aad61d14ecf3dfc20f6027e09320c88d955e078e5b4ce095042915ee41092c63783"
+
+[update]
+[update.modrinth]
+mod-id = "gt6jUoio"
+version = "6eBcnOmx"

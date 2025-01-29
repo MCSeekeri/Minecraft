@@ -1,0 +1,13 @@
+name = "Priority Target"
+filename = "PriorityTarget+Fabric+1.20.1+3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d34fd8590460f4ee41ef7cf0cf5e9f3feab37fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4861258
+project-id = 620786

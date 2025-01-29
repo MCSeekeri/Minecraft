@@ -1,0 +1,13 @@
+name = "All Arrows Infinity Fix"
+filename = "allarrowsinfinityfix-1.7.2-fabric-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M4qHqBBo/versions/hgv1a3Cc/allarrowsinfinityfix-1.7.2-fabric-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "bd5a4c6eebec74b5caf81f26917f12024bc83082cad7f6b569596cc0ca4f3da060242f48341ff6d32a8041b1067899c20046a861d6b062f6ffd99790cd8a3fd1"
+
+[update]
+[update.modrinth]
+mod-id = "M4qHqBBo"
+version = "hgv1a3Cc"
