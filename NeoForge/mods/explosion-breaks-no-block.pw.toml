@@ -1,0 +1,13 @@
+name = "Explosion Breaks No Block"
+filename = "explosionbreaksnoblock-0.2+1.21-NeoForge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3YsTQonY/versions/7DQB9tKw/explosionbreaksnoblock-0.2%2B1.21-NeoForge.jar"
+hash-format = "sha512"
+hash = "fa87559e0184c02781fd5624e2a35fa690768e1f47dec34629f526162ec702932e41bc1b0f7e0c8590d44e4bb7f1c4b8f803e3bf103d7462344d16831452d3ad"
+
+[update]
+[update.modrinth]
+mod-id = "3YsTQonY"
+version = "7DQB9tKw"

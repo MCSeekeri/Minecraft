@@ -1,0 +1,13 @@
+name = "Better Mob Drop"
+filename = "better_mob_drop-1.2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DUx62rbS/versions/BKdlnAux/better_mob_drop-1.2.0.1.jar"
+hash-format = "sha512"
+hash = "ccd6bf5d1be26236eb7efca80b95bc527555ceaf4bb2ca21812a7ce59c6a03fb6859c6d6701fb7b423f1e9a08d1735fde6e5414e43e650a97aef91cd66c1b086"
+
+[update]
+[update.modrinth]
+mod-id = "DUx62rbS"
+version = "BKdlnAux"

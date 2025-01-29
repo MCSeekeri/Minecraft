@@ -1,0 +1,13 @@
+name = "Exp Level Up Health"
+filename = "exp-level-up-health-1.0.0_mc1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1ogeQFvR/versions/vrhMp3SU/exp-level-up-health-1.0.0_mc1.21.x.jar"
+hash-format = "sha512"
+hash = "964ac112019ffb709961b13673e3df70b21c38f94ab399eaee916ab02918c951e484763860eb7286cda04a3a1bf69e027553c3821f7a7035deb9f9bbbf3f3451"
+
+[update]
+[update.modrinth]
+mod-id = "1ogeQFvR"
+version = "vrhMp3SU"
