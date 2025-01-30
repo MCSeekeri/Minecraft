@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "998f82a03ae328de2d7f632668e1aa2fafbe4d76655a7d4bbd852f23a9f326a8"
+hash = "1ce8e2f3fe33dc34c123a4c76edb033c36e9f68c46d0cbb889da59534cf53e2c"
 metafile = true
 
 [[files]]
@@ -149,6 +149,11 @@ hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e7ab61139edaca7ebf16131d8292a257e45b3dc1b027234ce2b4f0f27f850004"
 metafile = true
@@ -190,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderio.pw.toml"
-hash = "b8a9fa206d37d2ee3e28cb8e26578152c7f76411c8914754a2bcfd83548f8132"
+hash = "13a2e9e2e6d5440783670ae3c41583b942299e784b8f4d4110d3604e226441cc"
 metafile = true
 
 [[files]]
@@ -200,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "3572392af37f6fc864d4738e1916f567ebd96d72e9ff65a4da0d90b49c3e057e"
+hash = "c1906ec6fbc8fb86dae0ae64ce88b0769f2ee42fd9951ddc0f532f3e6eed56e7"
 metafile = true
 
 [[files]]
@@ -291,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e379c1e5da117e101dfb6ea2b90022eee85dfed17c22baf1b20ad9122c699e30"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
 metafile = true
 
 [[files]]
@@ -430,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "915b2a0ef04cb0d9a89ebdb15d83cc72c5a38aa871e209ccaf098e584d876ee7"
+hash = "74bc6d9908b6bb7cffefafe34cb7955aac5365b3a8addba1ab8753e658e1f048"
 metafile = true
 
 [[files]]
@@ -484,11 +494,6 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "0327e73217197e9f5d68d0b373429dc5497b277c49611c653be8f6ab191f5262"
-metafile = true
-
-[[files]]
 file = "mods/replanting-crops.pw.toml"
 hash = "e8e336251caaa4ad2733c8ef40b5e85759c5af6ea243b4d155fa65313a47d301"
 metafile = true
@@ -535,12 +540,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "d937ac123a28f84bb9b373292dcf37ce91d4511dae61a1cb40e28290234fa89d"
+hash = "1dcccc14b941495532b00a3fccbc403a3d90978a381a20b4a9674ab25261520b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "688e71e447e42ca888369aadc260cd1aea6e5b5b2e549fa9633dc323270d0d65"
+hash = "7f197d1bcb033a5102e2e180332f3d6583ecab8f4dc7aab436de1f7aa60bded9"
 metafile = true
 
 [[files]]
@@ -620,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "d1f4e89f0bab13ba276c7eda30f893c96a4ea6163357e8fcefe0c3b2b704b142"
+hash = "7ea1dce7f161b675e8de5c653c51fd1f84709bab75dc38ee69a6830ca6ab9ce2"
 metafile = true
 
 [[files]]
