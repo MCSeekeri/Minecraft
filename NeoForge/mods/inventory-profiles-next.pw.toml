@@ -1,0 +1,17 @@
+name = "Inventory Profiles Next"
+filename = "InventoryProfilesNext-neoforge-1.21-2.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/MyZRum3X/InventoryProfilesNext-neoforge-1.21-2.1.2.jar"
+hash-format = "sha512"
+hash = "1f5eb3f318d5e54fd56e543fe4aa6047ba9a50446ba286878cdcd9a079b1d77e470d432e57f0addc51bfa3d97de4f0ceaf67a1921dd72e9150ceba14ae037cad"
+
+[update]
+[update.modrinth]
+mod-id = "O7RBXm3n"
+version = "MyZRum3X"
+
+[option]
+optional = true
+description = "一键背包整理，对新手不太友好"

@@ -289,6 +289,11 @@ hash = "2a08b1a814850899953a9b0eb611084e55e626a58cec3581fb0a1f9b81bcd97d"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "6ed044bcbb8ba5cc0a1208925cff03b7b50ee559bbb7edd6632056680191430b"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "ca8e90d44722f5fe35427d7ad1f7f34ce78155031a6dc76dfd11dd4064873693"
 metafile = true
@@ -309,6 +314,11 @@ hash = "de5e0958394428bd763cdb8913a089cf54199a6e991f747a63b1e294d2e14863"
 metafile = true
 
 [[files]]
+file = "mods/justenoughcharacters.pw.toml"
+hash = "a7f3fd7ef672b1c652c87ef6a67391de5158ceb9475bab9cd0810fff7c63da00"
+metafile = true
+
+[[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
 hash = "0c5628aa667f67b20732786aedb64324129612bc96e50e4e4be75bf00c41057e"
 metafile = true
@@ -321,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/leashedplayer.pw.toml"
 hash = "5a06073a04e7e009a9ac01ae1bf1033972d2672bb6b7c933fc16af9a6aff9b5f"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "cae3973a7511d06acfb8ccc90c415d99650cc64928ec2480def2e100ac1a093e"
 metafile = true
 
 [[files]]
