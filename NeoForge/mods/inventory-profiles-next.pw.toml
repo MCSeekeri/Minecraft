@@ -3,14 +3,14 @@ filename = "InventoryProfilesNext-neoforge-1.21-2.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/MyZRum3X/InventoryProfilesNext-neoforge-1.21-2.1.2.jar"
-hash-format = "sha512"
-hash = "1f5eb3f318d5e54fd56e543fe4aa6047ba9a50446ba286878cdcd9a079b1d77e470d432e57f0addc51bfa3d97de4f0ceaf67a1921dd72e9150ceba14ae037cad"
+hash-format = "sha1"
+hash = "3972666cba6fec2021cc9202abc2cab2e6dbbd16"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "O7RBXm3n"
-version = "MyZRum3X"
+[update.curseforge]
+file-id = 6089579
+project-id = 495267
 
 [option]
 optional = true
