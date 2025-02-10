@@ -1,13 +1,13 @@
 name = "Touhou Little Maid"
-filename = "touhoulittlemaid-1.21.1-release-1.1.14.jar"
+filename = "touhoulittlemaid-1.21.1-release-1.1.14-hotfix.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R0bDWFAW/versions/td0GpwTz/touhoulittlemaid-1.21.1-release-1.1.14.jar"
+url = "https://cdn.modrinth.com/data/R0bDWFAW/versions/LuP1RuAc/touhoulittlemaid-1.21.1-release-1.1.14-hotfix.jar"
 hash-format = "sha512"
-hash = "5c8f4fc9ac5ca363b895293672a230b46741c9fbb493e19c25e538035aef5a9bcf2c9c8d7a24e9d1e0045a94fbd27cada9359a2e6bb136a1a3bba730506ed196"
+hash = "606f55a7f74223515185674dad928f583b940a4623889e5881566c7c7b7178981afbd05b96fcbf9a405a51015755ae25c9c70dda5eb7f9befb387a46207e7656"
 
 [update]
 [update.modrinth]
 mod-id = "R0bDWFAW"
-version = "td0GpwTz"
+version = "LuP1RuAc"
