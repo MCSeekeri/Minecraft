@@ -1,13 +1,13 @@
 name = "Tea the Story : Recount"
-filename = "teastory_recount-1.21.1-neoforge-0.4.2.jar"
+filename = "teastory_recount-1.21.1-neoforge-0.4.4.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "791fbb99b52a81e5b34c8ee395470cf5839edd4e"
+hash = "abc85cf63cbdb39a841b11e07fb6c450f3bfc167"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6144678
+file-id = 6202724
 project-id = 1088855

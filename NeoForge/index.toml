@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "c661a969c3ad099f178aa3f36337d80c839b6c98edcf254ef247397076f342af"
+hash = "8a5de386e40878af07d167c5ad2b9c0267d096bc1d661f805c4ae233342b45fa"
 metafile = true
 
 [[files]]
@@ -75,17 +75,17 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9f853636b2772bd85273c68083f2d1d1f838c609d66ce5773995d74433a4e544"
+hash = "76056d8aa62875d57f68c5e0148c646f889d4df8fc8a29b8c80e9e0c31f75c29"
 metafile = true
 
 [[files]]
 file = "mods/beautified-chat-client.pw.toml"
-hash = "b6081c9812b126569ce3bee22c7ab9f1af045981c0a0e2a9acdda471c629b9ce"
+hash = "e2f738262c85b91c8b62cdcc001e0f13bbfee921d5d0c51b628ba464b0df63c5"
 metafile = true
 
 [[files]]
 file = "mods/beautified-chat-server.pw.toml"
-hash = "aa5198613e5a535c8f6c2f2f0e215677f281303012bd59ab67958d960a2f1367"
+hash = "e2ac0b4f3e135b885b892250d8cf12ee68c78822055ec04835cf02b821b5a005"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
+hash = "42f218e9224754a2d344f584433b43b67b7c0400aca3feba07cd344a1ca228ae"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "0fb9560f290ae65889a1708435149570265164d4d7c4716f91ab928eda5fffc1"
+hash = "6c968abce1fb2abfda7534b9ceba15a2a3fd8d01f387890256bd67aeffdcf8af"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "241a788ca1c7ebd2b4eeca828e2d7faaa962f6211bb1a8e38b47b9b16344b4b8"
+hash = "298501d10980ed74135b92bb0ce3aea2008094c682176cdcf9e6274c03690407"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-player-heads.pw.toml"
-hash = "de5e0958394428bd763cdb8913a089cf54199a6e991f747a63b1e294d2e14863"
+hash = "f7826df1f2dac2bcca00724f1d84c981d0fff5cfe7b7eb2f589a3a2ceb1c9d5d"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
-hash = "0c5628aa667f67b20732786aedb64324129612bc96e50e4e4be75bf00c41057e"
+hash = "3bde12aa925f6bf027cf5f2bce1392cb0f3a0498d9d423933d702f2638f16065"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "1b20995c5e8814dba78a907aff24dfecb50fae0c07b412c0dbf6f07326719616"
+hash = "47e2244b736fb660839538b160cc35e66f9f96e08e050c5e2cfd421dbe40eef7"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "182ad4c6cbba193699192a764eb1130ee23fe9394cc48451fc21c6d94efcf615"
+hash = "08d2688e82cb6d212a09b1529ad694e54fca5503b658e0fcde71f6ed728e34e7"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "927cd74f85920a83650651ce38e4dabef68c534e1a93982169c17e795fc535fb"
+hash = "d3783a5e5cee34dc62e1a795f9bb1277e5be21dc189fc0c39e421633e1e508a9"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4304df902057ed0f5f210646e0552570d53782aae21f94eeafaeebdf33a51cf3"
+hash = "758a6e0ca20802b83c96762c6399f7cd107c65260b2330373d46d7fddb69056e"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "7d538a4fd4df6b651dc929b590db39c3941da01268e4916c329596f26dc04332"
+hash = "dd38f40c721ba921a15d0c5caad68328e9c4df6ac9341bbe7dd7dfbab7584439"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/replanting-crops.pw.toml"
-hash = "e8e336251caaa4ad2733c8ef40b5e85759c5af6ea243b4d155fa65313a47d301"
+hash = "f18f0527040db10a15a333f0d02d8c627b2b6b684c8aa3536982bc36592498ae"
 metafile = true
 
 [[files]]
@@ -555,12 +555,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "6f768eb914e2b1a4ac7010968f920ad793605bb6a4460343ee8b87e55557c119"
+hash = "a4d9e44a9949d748f98b4897cd7e7dc09e9e3e2b26ea091de06e6d4f56663d12"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4c1d8526ee947a75f0c623b335980b83e675778fd1e997cb18f8792770e62234"
+hash = "92afcd44fa8b3994008b1c67de99918b87234052ae20c7787e90d572a24dde9f"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/tea-the-story-recount.pw.toml"
-hash = "f10e1eb3e04ec053519e7b818bf1fafcd552709d3427b1ffd8d069d1eda10cfa"
+hash = "f11014abb9922cb2b13c2fffba5da6cccc752ede5234e3ed18f69e9fd3d3e8db"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8ab75b4183933206d15aec33cdd3d94485c9192ae507fb9e9a36d17a6feb1213"
+hash = "943c497e1f537129a6eaaed1886f89043f0c06753e199abe890c5385ba026069"
 metafile = true
 
 [[files]]
