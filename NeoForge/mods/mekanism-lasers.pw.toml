@@ -1,13 +1,13 @@
 name = "Mekanism Lasers"
-filename = "MekanismLasers-1.12.1-1.1.10.jar"
+filename = "MekanismLasers-1.12.1-1.1.10.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hvFdcxrV/versions/f0so7yls/MekanismLasers-1.12.1-1.1.10.jar"
+url = "https://cdn.modrinth.com/data/hvFdcxrV/versions/pMjoGV2B/MekanismLasers-1.12.1-1.1.10.1.jar"
 hash-format = "sha512"
-hash = "d23c86e45bdec7b74f8de2a4903979188c31745768b5a4dc864a1fa27bff7e3cd13730b63066da88e8b15a11c925912b6a9ca22a305f8c2d727e62d592d3669d"
+hash = "3aa8157553617cfa512ac5ad520b9eaa2a4fc1ef7f5479ad1cdc30729ef6114f3410872e81ff7478ba18948e4b4a26c01b8ba6faeae4b4ea3a91d7a105ee34ca"
 
 [update]
 [update.modrinth]
 mod-id = "hvFdcxrV"
-version = "f0so7yls"
+version = "pMjoGV2B"
