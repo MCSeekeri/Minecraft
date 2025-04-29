@@ -45,6 +45,11 @@ hash = "00ccd2d6d07bcf0cfc32bf8bba10f81c9966f067267ef5100e47c723b64b5d12"
 metafile = true
 
 [[files]]
+file = "mods/bagus-lib.pw.toml"
+hash = "1baddf6ed12c7509d7c07c889b00c7176b2891f971d3115d90ca5fa9c98d9131"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "081fe633c2c73b0d5e37a81d3973502d563f5d545246fde0510a2004ece78f95"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "a292645eacc6a5e6a322796a436c4fb48af0fd4e0212eb3221f13f31785d44d3"
 metafile = true
 
 [[files]]
@@ -215,6 +225,11 @@ hash = "a7f3fd7ef672b1c652c87ef6a67391de5158ceb9475bab9cd0810fff7c63da00"
 metafile = true
 
 [[files]]
+file = "mods/kaleidoscope-doll.pw.toml"
+hash = "9f8da857724244a5f493a787e93e2d39c8b54c05700a98a5a9fb1a73c50485c0"
+metafile = true
+
+[[files]]
 file = "mods/keep-my-soil-tilled.pw.toml"
 hash = "3bde12aa925f6bf027cf5f2bce1392cb0f3a0498d9d423933d702f2638f16065"
 metafile = true
@@ -295,8 +310,13 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "1b9625747845eac9c4a92135ec74201039b9f7677abbf42bc8b61f51986b5a1a"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
-hash = "ce6b2fd718d63e8e60036171ed0a02471e25fbe864761913dd5114d1bd1f20a4"
+hash = "cb08852c14e1563e663eecd8fe0865b171a0c24faefcb6edf7ad9aad06a8e431"
 metafile = true
 
 [[files]]
@@ -350,11 +370,6 @@ hash = "3d003b30318f48a36bb710e8cde44d9287018d6f9c9a654c4f91e8a34b8f76b6"
 metafile = true
 
 [[files]]
-file = "mods/sound.pw.toml"
-hash = "9fd8a776007787ce2f9015d2371abf3891b7cc070ba10f233205548ebc6dd82a"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
@@ -367,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/title-screen-blobcat.pw.toml"
 hash = "ddbd6e994511a8df32a05a5dc25a18dfc58b26388c69d23b75f7ea667579036e"
+metafile = true
+
+[[files]]
+file = "mods/tofucraftreload.pw.toml"
+hash = "1603399ec1baaa2de72a534c2b2c01062b619843e003b1d4f66d44ff13ef2ab2"
 metafile = true
 
 [[files]]
@@ -405,6 +425,11 @@ hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
+file = "mods/world-comment.pw.toml"
+hash = "09aa790bfa5937b6001ff29d5b16e81e99c78a63a7c81631fe5bb9a200cdf208"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "de999f6cc4c2f344e324b4f331fa9767844c31463c6e8066fcd67b613338ab8c"
 metafile = true
@@ -422,11 +447,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "30e1fceff4fd5d769c044f2f8775656a641bf71993f3246d7965712bf2706afa"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
 metafile = true
 
 [[files]]
