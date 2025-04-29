@@ -1,0 +1,17 @@
+name = "Default HD 128x"
+filename = "Default HD 128x Demo 1.7.9.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/orfTV6nk/versions/6JuW3KkX/Default%20HD%20128x%20Demo%201.7.9.zip"
+hash-format = "sha512"
+hash = "1a90534ad8d32d4c455b524227630299701dfeb36b8de52511e64edee52256eac1eaf61a1b2a49892aa7a97f7c754a4de5dd487023673ccd015feb6a22180aab"
+
+[update]
+[update.modrinth]
+mod-id = "orfTV6nk"
+version = "6JuW3KkX"
+
+[option]
+optional = true
+description = "128x 高清材质包"

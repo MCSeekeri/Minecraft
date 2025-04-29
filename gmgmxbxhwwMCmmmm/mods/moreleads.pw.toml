@@ -1,0 +1,13 @@
+name = "MoreLeads"
+filename = "MoreLeads-neoforge-1.21-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/htaRjgnu/versions/bN1dtq6i/MoreLeads-neoforge-1.21-1.2.0.jar"
+hash-format = "sha512"
+hash = "7b16b09533cf1f9ba0f20641b029b88757a595a7514626e5210f65662d7a04e50d3596ebc3433f944ca3cf446f6a7faddde65858883bf18b5daa86c18e9e6a44"
+
+[update]
+[update.modrinth]
+mod-id = "htaRjgnu"
+version = "bN1dtq6i"

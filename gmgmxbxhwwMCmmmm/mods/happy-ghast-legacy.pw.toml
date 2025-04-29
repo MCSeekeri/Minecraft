@@ -1,0 +1,13 @@
+name = "Happy Ghast Legacy"
+filename = "happy_ghast_legacy-1.4-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zi5opIfD/versions/dV73bE6b/happy_ghast_legacy-1.4-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "33c66c251bcedd87f1b5f2664f9708ff9c03038d4fbf76b827bfb98450c63d5d1eef05b72c6892ffc77fc885e25492739b09bdc9718a9988b266ff426fbbeba3"
+
+[update]
+[update.modrinth]
+mod-id = "zi5opIfD"
+version = "dV73bE6b"

@@ -1,0 +1,13 @@
+name = "gmgmxbxhwwMCmmmm"
+author = "MCSeekeri"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3a4dada5b02f98306b747544e2dc6947782b37cd9a0687759305979614a14d86"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.168"
