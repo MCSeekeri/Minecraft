@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6b388084609369115aa39cb6c945da1a00634ff17e949f176e0c786b45f6db72"
+hash = "a95b0ce84cdfe37426bc8d52ae76e3a786a95d70b31986a94a93f7c664ad9a76"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "1b640138315319a4846279d1d2c1be807e32859226f7263d6da8c501ab367f62"
+hash = "3acbce34495b3a14e23934de8c6f7a2bcacaa6b52d3ca6df4b7ad4c19206f1c4"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/flightassistant.pw.toml"
-hash = "e5817f4bffd2745c765e12a4a6bf432539361a3438569e038482c17215669246"
+hash = "f164123c264bda2bc29a2b7d98d00f8b8655fc41711544545e7cc7af669c1064"
 metafile = true
 
 [[files]]
@@ -516,12 +516,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "25c104410410fdfd5e0dde43cfc2f6ddf473cf74b530ee5af1528a69951e5c4d"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "cb06f81e885d580e2f6a864e31036e921cd2bfd5a04fbb472c86a7bc33bc6e44"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
 
 [[files]]
