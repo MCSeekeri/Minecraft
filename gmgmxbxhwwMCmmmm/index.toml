@@ -5,6 +5,10 @@ file = "config/com.yuushya/client_config.json"
 hash = "a5068b44183cf05a773c6119c13cd8bda95d05ef566f83eaab508f4fe156ec65"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "2504235975867fc8da4b41b4f1d40851efc9b96d8f8d832c137647d156eebfb6"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a34cb55f2a55e2a4e47d6954948387105c14f0d0f2e800d003e1e7ec19c2904f"
 metafile = true
@@ -147,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/customskinloader.pw.toml"
 hash = "31c2e8b42da61cf87d2d88c988d26b3f66e7ff335998e3ebbc0f2609c43209bc"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "1d99ac75f92996ec9673e39c012a51dc4b05c48ef7bf672ccaf5e7464a1a3d13"
 metafile = true
 
 [[files]]
