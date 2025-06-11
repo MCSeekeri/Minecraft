@@ -1,13 +1,13 @@
 name = "Warden With Loot"
-filename = "warden-with-loot-2.1.jar"
+filename = "warden-with-loot-2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/T2Z3j2pD/versions/73nlhsuD/warden-with-loot-2.1.jar"
+url = "https://cdn.modrinth.com/data/T2Z3j2pD/versions/5cRrPP7F/warden-with-loot-2.2.jar"
 hash-format = "sha512"
-hash = "0cf4d7c4324a47a7566988375fb433091485d6465021280a77cf0a1640435a6e538d8b6d070ffd6047b73bfe09d63ea329a9e6df68c3bcfde25f8b37eab20b03"
+hash = "30650cedd1c4214c609b599449702a9f6b93259d5e42b5383b27793a55fe1360203015f5a131b380ef7132f52dbe015047d6528099f02f9d29469b81e1c5246d"
 
 [update]
 [update.modrinth]
 mod-id = "T2Z3j2pD"
-version = "73nlhsuD"
+version = "5cRrPP7F"

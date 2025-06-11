@@ -1,13 +1,13 @@
 name = "Better Mob Drop"
-filename = "better_mob_drop-1.2.1.1.jar"
+filename = "better_mob_drop-1.2.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DUx62rbS/versions/RTXCqwxs/better_mob_drop-1.2.1.1.jar"
+url = "https://cdn.modrinth.com/data/DUx62rbS/versions/iDIanDOl/better_mob_drop-1.2.2.1.jar"
 hash-format = "sha512"
-hash = "6f33ae968093f061f0269766ce6e62f8e41432482e263a845e4758c48277217ded5e6b195a4c828633d039b32e6b6e183ac6b5e8e2cfd3196a748058e9db89e3"
+hash = "378cc9baad773b25ffc7322df3dd520ec504390f5843deb3a24f7cb473ed2686016f3e3e742276fc7fa3d179d77206e4a1fa1eb4bf5195159f3d2fe9ab3698ee"
 
 [update]
 [update.modrinth]
 mod-id = "DUx62rbS"
-version = "RTXCqwxs"
+version = "iDIanDOl"
