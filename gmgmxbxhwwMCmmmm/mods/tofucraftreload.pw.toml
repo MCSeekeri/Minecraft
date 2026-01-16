@@ -1,13 +1,13 @@
 name = "TofuCraftReload"
-filename = "tofucraft-1.21.1-12.10.0.0.jar"
+filename = "tofucraft-1.21.1-12.18.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/69rMY8bC/versions/k70UDjps/tofucraft-1.21.1-12.10.0.0.jar"
+url = "https://cdn.modrinth.com/data/69rMY8bC/versions/AhtcMIEV/tofucraft-1.21.1-12.18.0.0.jar"
 hash-format = "sha512"
-hash = "d58b2faf82ad7aeb7b4b7cbae8b827d190ebe5eaad1cfe2635209fc5c6482a1611c23ef5ed96675ada7cab73474fe0ee4bb2c210bf2171645d8fb0ed89900d5e"
+hash = "47bce681434193278da1f0315b51404843b77a57dff3568ba88575290790e40726957c093a92e1ee9ef846b3cb91fa8362f975a052ebe4adccabf0af25bee5f8"
 
 [update]
 [update.modrinth]
 mod-id = "69rMY8bC"
-version = "k70UDjps"
+version = "AhtcMIEV"

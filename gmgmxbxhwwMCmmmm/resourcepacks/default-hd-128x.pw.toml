@@ -1,16 +1,16 @@
 name = "Default HD 128x"
-filename = "Default HD 128x Demo 1.7.9.zip"
+filename = "Default HD 128x Demo 1.8.2.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/orfTV6nk/versions/6JuW3KkX/Default%20HD%20128x%20Demo%201.7.9.zip"
+url = "https://cdn.modrinth.com/data/orfTV6nk/versions/Nrpe4h0T/Default%20HD%20128x%20Demo%201.8.2.2.zip"
 hash-format = "sha512"
-hash = "1a90534ad8d32d4c455b524227630299701dfeb36b8de52511e64edee52256eac1eaf61a1b2a49892aa7a97f7c754a4de5dd487023673ccd015feb6a22180aab"
+hash = "534268d9468d27fd72559b05f27b13cc49f84cb492994d60f65736d76a0c725e629ad1e73e9da5022b98f4d1866064db8943002a9e9b1a68fc0739cf336f20fa"
 
 [update]
 [update.modrinth]
 mod-id = "orfTV6nk"
-version = "6JuW3KkX"
+version = "Nrpe4h0T"
 
 [option]
 optional = true

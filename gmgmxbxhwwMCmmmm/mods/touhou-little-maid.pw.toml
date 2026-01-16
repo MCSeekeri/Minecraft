@@ -1,13 +1,13 @@
 name = "Touhou Little Maid"
-filename = "touhoulittlemaid-1.21.1-release-1.2.2-hotfix.jar"
+filename = "touhoulittlemaid-1.4.6-neoforge+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R0bDWFAW/versions/jNfoDrwb/touhoulittlemaid-1.21.1-release-1.2.2-hotfix.jar"
+url = "https://cdn.modrinth.com/data/R0bDWFAW/versions/X9LKPySd/touhoulittlemaid-1.4.6-neoforge%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "5f92741d9afddd6905ff26ceb177d8b709b8238d9a647da4b0419694caa7768ce34acefec9a4c8c949e2b1fb9638c6484a7e00de28b5fd12ab360437e79fb043"
+hash = "8ac0bc57ec419abfb0baf523a56ede0c76c8bd22e84d242cf7fef08a3d0b0896bddcf933afa6a58a2b5ee2777e4f2ed7f5caafc9ecfc44ed3cd945675f87523d"
 
 [update]
 [update.modrinth]
 mod-id = "R0bDWFAW"
-version = "jNfoDrwb"
+version = "X9LKPySd"

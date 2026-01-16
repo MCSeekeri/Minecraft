@@ -1,13 +1,13 @@
 name = "Kaleidoscope Doll"
-filename = "kaleidoscopedoll-1.21.1-neoforge-1.0.1-fix1.jar"
+filename = "kaleidoscopedoll-1.3.0-neoforge+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vQLjjxNs/versions/zYKWDi7z/kaleidoscopedoll-1.21.1-neoforge-1.0.1-fix1.jar"
+url = "https://cdn.modrinth.com/data/vQLjjxNs/versions/I6rSJYWC/kaleidoscopedoll-1.3.0-neoforge%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "b2eb74b79bc098c8e711e2785fc0f17db48250726823bb9f40e8109569fff459fb959319c86705133fcdf84b9049f58c1357b366457623d5d9a54c92076fe91e"
+hash = "9c0d9a92111a3456e7c7f7fd7ff923bc0894f1d92ff0245754dc2f413e0ced6502a3f6b2aeefb493b11e756b0a08d624b7641da3cf6b42f7a53e525c0aade386"
 
 [update]
 [update.modrinth]
 mod-id = "vQLjjxNs"
-version = "zYKWDi7z"
+version = "I6rSJYWC"
